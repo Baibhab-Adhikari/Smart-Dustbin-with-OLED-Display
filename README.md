@@ -19,6 +19,11 @@ This repository contains the code and documentation for a smart dustbin project 
 - Arduino IDE
 - libraries -> "Wire.h", "Servo.h" and "U8g2lib.h"
 
+## Circuit Diagram
+
+![Connection Diagram](connection_diagram.png)
+
+
 ## Connections
 
 ### Ultrasonic Sensors
